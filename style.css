@@ -3,7 +3,7 @@ body {
 }
 
 #content {
-  width: 800px;
+  width: 600px;
   margin: 120px auto;
 }
 
@@ -25,4 +25,17 @@ h2 {
 
 h1, h2 {
   color: #0066CC;
+}
+
+#line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 4px;
+  background-color: #0066CC;
+}
+
+#photo {
+  width: 150px;
 }
