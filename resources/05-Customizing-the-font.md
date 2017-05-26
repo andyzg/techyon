@@ -12,3 +12,5 @@ body {
   font-family: 'Lato', sans-serif;
 }
 ```
+
+[Next section: Customized heading](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/06-Custom-headings.md)
