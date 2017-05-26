@@ -1,6 +1,6 @@
 # If HTML and CSS could build a house
 
-HTML for a house
+What if HTML and CSS could build a house? This is how we'd define the HTML of a house.
 ```
 <house>
   <kitchen>
@@ -11,7 +11,7 @@ HTML for a house
 </house>
 ```
 
-CSS for a house
+This is how we'd define the CSS for a house.
 ```
 house {
   width: 100ft;
