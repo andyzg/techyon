@@ -3,7 +3,7 @@
 We can also add a photo right above our name. Add a `photo.jpg` into your
 directory and add this line right below `<section></section>`
 
-```
+```html
 <img id="photo" src="photo.jpg" />
 ```
 
@@ -11,7 +11,7 @@ If you prefer having a placeholder photo, replace `photo.jpg` with http://i1.kym
 
 
 Then add this to your `style.css`
-```
+```css
 #photo {
   width: 150px;
 }
