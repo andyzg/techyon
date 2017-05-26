@@ -3,7 +3,7 @@
 Add all of the files with `git add .`. Then take a commit, also known
 as a snapshot. Lastly, push the changes to Github.
 
-```
+```bash
 $ git status
 On branch master
 Untracked files:
