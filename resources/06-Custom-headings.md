@@ -7,3 +7,5 @@ h1, h2 {
   color: #0066CC;
 }
 ```
+
+[Next section: Adding a blue line](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/07-Blue-line.md)
