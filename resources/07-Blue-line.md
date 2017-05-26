@@ -17,3 +17,5 @@ And then adding this line right below `<body></body>`
 ```html
 <div id="line"></div>
 ```
+
+[Next section: Adding a photo](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/08-Adding-a-photo.md)
