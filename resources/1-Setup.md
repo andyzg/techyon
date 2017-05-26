@@ -1,4 +1,4 @@
-# Git
+# Cloning the repository locally
 
 When you first create the `<username>.github.io` repository, you'll get a link
 to the repository in the Quick Setup section. 
