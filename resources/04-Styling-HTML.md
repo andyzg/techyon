@@ -27,3 +27,4 @@ h2 {
   margin: 40px 0 8px 0;
 }
 ```
+[Next section: Adding a font](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/05-Customizing-the-font.md)
