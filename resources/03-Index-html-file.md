@@ -23,3 +23,5 @@ Here's the template for the index.html file. You can replace the content with yo
   </body>
 </html>
 ```
+
+[Next section: Styling your HTML](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/04-Styling-HTML.md)
