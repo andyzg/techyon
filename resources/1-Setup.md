@@ -1,6 +1,11 @@
 # Git
 
-Here are the steps to clone your repository
+When you first create the `<username>.github.io` repository, you'll get a link
+to the repository in the Quick Setup section. 
+
+If you can't find the link, you can take the repository's URL and add `.git` to the end.
+
+Here are the steps to clone your repository through the link. 
 ```
 $ cd SOME_PATH_TO_STORE_REPO
 
