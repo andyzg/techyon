@@ -1,6 +1,6 @@
 # Pushing index.html to your website
 
-First, add all of the files with `git add .`. Then take a commit, also known
+Add all of the files with `git add .`. Then take a commit, also known
 as a snapshot. Lastly, push the changes to Github.
 
 ```
