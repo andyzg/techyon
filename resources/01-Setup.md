@@ -15,3 +15,5 @@ $ git clone https://github.com/andytechyon/andytechyon.github.io.git
 // If you have SSH set up with your Github account
 $ git clone git@github.com:andytechyon/andytechyon.github.io.git
 ```
+
+[Next section: HTML and CSS](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/02-HTML-and-CSS.md)
