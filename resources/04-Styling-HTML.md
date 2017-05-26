@@ -1,12 +1,12 @@
 # Styling your HTML
 
 Include this within the `<head></head>` of your HTML file
-```
+```html
 <link rel="stylesheet" href="style.css">
 ```
 
 Next, include this in your `style.css`
-```
+```css
 #content {
   width: 600px;
   margin: 120px auto;
