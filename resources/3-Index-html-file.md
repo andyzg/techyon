@@ -1,6 +1,6 @@
 # Index.html
 
-Template for the index.html file. Replace the content with your own.
+Here's the template for the index.html file. You can replace the content with your own.
 
 ```
 <html>
