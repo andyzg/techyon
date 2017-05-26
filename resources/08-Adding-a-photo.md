@@ -16,3 +16,5 @@ Then add this to your `style.css`
   width: 150px;
 }
 ```
+
+[Next section: Adding a project section](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/09-Projects.md)
