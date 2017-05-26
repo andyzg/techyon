@@ -2,7 +2,7 @@
 
 Here's the template for the index.html file. You can replace the content with your own.
 
-```
+```html
 <html>
   <head>
     <title> Portfolio Website </title>
