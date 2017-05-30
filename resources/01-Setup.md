@@ -1,5 +1,7 @@
 # Cloning the repository locally
 
+The first thing we want to do is to link the Github repository to a local repository on our laptop. In order to do this, we need to clone the repository to our computer. This will allow us to make local changes, save them, and then publish them to Github.
+
 When you first create the `<username>.github.io` repository, you'll get a link
 to the repository in the Quick Setup section. 
 
