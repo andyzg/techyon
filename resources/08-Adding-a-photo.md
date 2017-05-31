@@ -17,4 +17,4 @@ Then add this to your `style.css`
 }
 ```
 
-[Next section: Adding a project section](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/09-Projects.md)
+[Next section: Adding a project section](https://github.com/andytechyon/techyon/blob/master/resources/09-Projects.md)
