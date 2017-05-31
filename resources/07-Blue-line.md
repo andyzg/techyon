@@ -18,4 +18,4 @@ And then adding this line right below `<body></body>`
 <div id="line"></div>
 ```
 
-[Next section: Adding a photo](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/08-Adding-a-photo.md)
+[Next section: Adding a photo](https://github.com/andytechyon/techyon/blob/master/resources/08-Adding-a-photo.md)
