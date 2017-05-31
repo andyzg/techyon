@@ -20,4 +20,4 @@ $ git clone https://github.com/andytechyon/andytechyon.github.io.git
 $ git clone git@github.com:andytechyon/andytechyon.github.io.git
 ```
 
-[Next section: HTML and CSS](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/02-HTML-and-CSS.md)
+[Next section: HTML and CSS](https://github.com/andytechyon/techyon/blob/master/resources/02-HTML-and-CSS.md)
