@@ -17,4 +17,4 @@ Then add this new block of CSS in `style.css`
 }
 ```
 
-[Next section: Publishing your website](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/11-Pushing-your-website.md)
+[Next section: Publishing your website](https://github.com/andytechyon/techyon/blob/master/resources/11-Pushing-your-website.md)
