@@ -19,4 +19,4 @@ Changes to be committed:
 $ git commit -m "Initial commit"
 $ git push origin master
 ```
-[Next section: Further readings and resources](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/12-Resources-Readings.md)
+[Next section: Further readings and resources](https://github.com/andytechyon/techyon/blob/master/resources/12-Resources-Readings.md)
