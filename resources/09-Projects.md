@@ -37,4 +37,4 @@ Then add this block of code to your `style.css`
 
 CSS Flexbox reference: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-[Next section: Hover animations](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/10-Hover-animations.md)
+[Next section: Hover animations](https://github.com/andytechyon/techyon/blob/master/resources/10-Hover-animations.md)
