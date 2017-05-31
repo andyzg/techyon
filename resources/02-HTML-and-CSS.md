@@ -22,4 +22,4 @@ house {
 }
 ```
 
-[Next section: Index.html](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/03-Index-html-file.md)
+[Next section: Index.html](https://github.com/andytechyon/techyon/blob/master/resources/03-Index-html-file.md)
