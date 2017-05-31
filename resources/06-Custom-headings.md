@@ -8,4 +8,4 @@ h1, h2 {
 }
 ```
 
-[Next section: Adding a blue line](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/07-Blue-line.md)
+[Next section: Adding a blue line](https://github.com/andytechyon/techyon/blob/master/resources/07-Blue-line.md)
