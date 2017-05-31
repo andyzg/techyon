@@ -14,10 +14,10 @@ Here are the steps to clone your repository through the link.
 $ cd SOME_PATH_TO_STORE_REPO
 
 // Clone your Github repository named <username>.github.io
-$ git clone https://github.com/andytechyon/andytechyon.github.io.git
+$ git clone https://github.com/<username>/<username>.github.io.git
 
 // If you have SSH set up with your Github account
-$ git clone git@github.com:andytechyon/andytechyon.github.io.git
+$ git clone git@github.com:<username>/<username>.github.io.git
 ```
 
 [Next section: HTML and CSS](https://github.com/andytechyon/techyon/blob/master/resources/02-HTML-and-CSS.md)
