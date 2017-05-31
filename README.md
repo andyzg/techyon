@@ -7,4 +7,4 @@ Hey! In this repository, you'll find the code used for the workshop as well as n
 - Github account (https://github.com/)
 - Git on your computer (https://git-scm.com/download)
 
-[Notes used to follow along](https://github.com/andytechyon/andytechyon.github.io/blob/master/resources/01-Setup.md)
+[Notes used to follow along](https://github.com/andytechyon/techyon/blob/master/resources/01-Setup.md)
